@@ -1,0 +1,9 @@
+Q disparar
+Flechas movimiento.
+
+
+Si te salta el antivirus no te alarmes, el codigo administra la memoria
+y eso al antivirus no le gusta, es un tonto, jajaja , na si hiciera cosas
+feas entonces si, pero no hago nada raro, es todo codigo interfaz, asi que
+tranqui :D 
+JEJEJEJEJE
